@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RtnBgwyv9FFED2dfF3IJBLjlwEBE/XR8VY1mqBJcxf2SZnMMVZBGhjuKSS/j1+aHSweIDC3aKRrStoVhF9+Bnw==",
+  "success": true,
+  "projectFilePath": "/Users/abdullahaameen/Documents/Abdullah_Xamarin_Training/FIrst_App/FIrst_App/FIrst_App.csproj",
+  "expectedPackageFiles": [
+    "/Users/abdullahaameen/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

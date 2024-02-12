@@ -1,0 +1,17 @@
+/Users/abdullahaameen/Documents/Abdullah_Xamarin_Training/FIrst_App/FIrst_App/bin/Debug/net6.0/FIrst_App
+/Users/abdullahaameen/Documents/Abdullah_Xamarin_Training/FIrst_App/FIrst_App/bin/Debug/net6.0/FIrst_App.deps.json
+/Users/abdullahaameen/Documents/Abdullah_Xamarin_Training/FIrst_App/FIrst_App/bin/Debug/net6.0/FIrst_App.runtimeconfig.json
+/Users/abdullahaameen/Documents/Abdullah_Xamarin_Training/FIrst_App/FIrst_App/bin/Debug/net6.0/FIrst_App.dll
+/Users/abdullahaameen/Documents/Abdullah_Xamarin_Training/FIrst_App/FIrst_App/bin/Debug/net6.0/FIrst_App.pdb
+/Users/abdullahaameen/Documents/Abdullah_Xamarin_Training/FIrst_App/FIrst_App/obj/Debug/net6.0/FIrst_App.csproj.AssemblyReference.cache
+/Users/abdullahaameen/Documents/Abdullah_Xamarin_Training/FIrst_App/FIrst_App/obj/Debug/net6.0/FIrst_App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdullahaameen/Documents/Abdullah_Xamarin_Training/FIrst_App/FIrst_App/obj/Debug/net6.0/FIrst_App.AssemblyInfoInputs.cache
+/Users/abdullahaameen/Documents/Abdullah_Xamarin_Training/FIrst_App/FIrst_App/obj/Debug/net6.0/FIrst_App.AssemblyInfo.cs
+/Users/abdullahaameen/Documents/Abdullah_Xamarin_Training/FIrst_App/FIrst_App/obj/Debug/net6.0/FIrst_App.csproj.CoreCompileInputs.cache
+/Users/abdullahaameen/Documents/Abdullah_Xamarin_Training/FIrst_App/FIrst_App/obj/Debug/net6.0/FIrst_App.dll
+/Users/abdullahaameen/Documents/Abdullah_Xamarin_Training/FIrst_App/FIrst_App/obj/Debug/net6.0/refint/FIrst_App.dll
+/Users/abdullahaameen/Documents/Abdullah_Xamarin_Training/FIrst_App/FIrst_App/obj/Debug/net6.0/FIrst_App.pdb
+/Users/abdullahaameen/Documents/Abdullah_Xamarin_Training/FIrst_App/FIrst_App/obj/Debug/net6.0/FIrst_App.genruntimeconfig.cache
+/Users/abdullahaameen/Documents/Abdullah_Xamarin_Training/FIrst_App/FIrst_App/obj/Debug/net6.0/ref/FIrst_App.dll
+/Users/abdullahaameen/Documents/Abdullah_Xamarin_Training/FIrst_App/FIrst_App/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/abdullahaameen/Documents/Abdullah_Xamarin_Training/FIrst_App/FIrst_App/obj/Debug/net6.0/FIrst_App.csproj.CopyComplete
