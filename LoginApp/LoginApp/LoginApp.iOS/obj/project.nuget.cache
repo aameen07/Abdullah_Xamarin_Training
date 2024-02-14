@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rw0Nr++sMcGFhjqpsHw7sUZMTwFvJ9fq1bZYl2Df3RltzqD0grObNkBrA2/y8tM2rnXtXeVRIKOzMKVUxc/U7Q==",
+  "success": true,
+  "projectFilePath": "/Users/abdullahaameen/Downloads/Abdullah_Xamarin_Training/LoginApp/LoginApp/LoginApp.iOS/LoginApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/abdullahaameen/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/abdullahaameen/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/abdullahaameen/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

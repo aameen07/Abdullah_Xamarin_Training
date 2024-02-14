@@ -1,0 +1,16 @@
+/Users/abdullahaameen/Downloads/Abdullah_Xamarin_Training/LoginApp/LoginApp/LoginApp/bin/Debug/netstandard2.0/LoginApp.deps.json
+/Users/abdullahaameen/Downloads/Abdullah_Xamarin_Training/LoginApp/LoginApp/LoginApp/bin/Debug/netstandard2.0/LoginApp.dll
+/Users/abdullahaameen/Downloads/Abdullah_Xamarin_Training/LoginApp/LoginApp/LoginApp/bin/Debug/netstandard2.0/ref/LoginApp.dll
+/Users/abdullahaameen/Downloads/Abdullah_Xamarin_Training/LoginApp/LoginApp/LoginApp/bin/Debug/netstandard2.0/LoginApp.pdb
+/Users/abdullahaameen/Downloads/Abdullah_Xamarin_Training/LoginApp/LoginApp/LoginApp/obj/Debug/netstandard2.0/LoginApp.csproj.AssemblyReference.cache
+/Users/abdullahaameen/Downloads/Abdullah_Xamarin_Training/LoginApp/LoginApp/LoginApp/obj/Debug/netstandard2.0/LoginApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdullahaameen/Downloads/Abdullah_Xamarin_Training/LoginApp/LoginApp/LoginApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/abdullahaameen/Downloads/Abdullah_Xamarin_Training/LoginApp/LoginApp/LoginApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/abdullahaameen/Downloads/Abdullah_Xamarin_Training/LoginApp/LoginApp/LoginApp/obj/Debug/netstandard2.0/MyPage.xaml.g.cs
+/Users/abdullahaameen/Downloads/Abdullah_Xamarin_Training/LoginApp/LoginApp/LoginApp/obj/Debug/netstandard2.0/LoginApp.AssemblyInfoInputs.cache
+/Users/abdullahaameen/Downloads/Abdullah_Xamarin_Training/LoginApp/LoginApp/LoginApp/obj/Debug/netstandard2.0/LoginApp.AssemblyInfo.cs
+/Users/abdullahaameen/Downloads/Abdullah_Xamarin_Training/LoginApp/LoginApp/LoginApp/obj/Debug/netstandard2.0/LoginApp.csproj.CoreCompileInputs.cache
+/Users/abdullahaameen/Downloads/Abdullah_Xamarin_Training/LoginApp/LoginApp/LoginApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/abdullahaameen/Downloads/Abdullah_Xamarin_Training/LoginApp/LoginApp/LoginApp/obj/Debug/netstandard2.0/LoginApp.dll
+/Users/abdullahaameen/Downloads/Abdullah_Xamarin_Training/LoginApp/LoginApp/LoginApp/obj/Debug/netstandard2.0/refint/LoginApp.dll
+/Users/abdullahaameen/Downloads/Abdullah_Xamarin_Training/LoginApp/LoginApp/LoginApp/obj/Debug/netstandard2.0/LoginApp.pdb

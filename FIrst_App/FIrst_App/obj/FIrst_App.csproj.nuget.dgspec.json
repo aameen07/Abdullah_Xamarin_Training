@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/abdullahaameen/Documents/Abdullah_Xamarin_Training/FIrst_App/FIrst_App/FIrst_App.csproj": {}
+    "/Users/abdullahaameen/Downloads/Abdullah_Xamarin_Training/FIrst_App/FIrst_App/FIrst_App.csproj": {}
   },
   "projects": {
-    "/Users/abdullahaameen/Documents/Abdullah_Xamarin_Training/FIrst_App/FIrst_App/FIrst_App.csproj": {
+    "/Users/abdullahaameen/Downloads/Abdullah_Xamarin_Training/FIrst_App/FIrst_App/FIrst_App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/abdullahaameen/Documents/Abdullah_Xamarin_Training/FIrst_App/FIrst_App/FIrst_App.csproj",
+        "projectUniqueName": "/Users/abdullahaameen/Downloads/Abdullah_Xamarin_Training/FIrst_App/FIrst_App/FIrst_App.csproj",
         "projectName": "FIrst_App",
-        "projectPath": "/Users/abdullahaameen/Documents/Abdullah_Xamarin_Training/FIrst_App/FIrst_App/FIrst_App.csproj",
+        "projectPath": "/Users/abdullahaameen/Downloads/Abdullah_Xamarin_Training/FIrst_App/FIrst_App/FIrst_App.csproj",
         "packagesPath": "/Users/abdullahaameen/.nuget/packages/",
-        "outputPath": "/Users/abdullahaameen/Documents/Abdullah_Xamarin_Training/FIrst_App/FIrst_App/obj/",
+        "outputPath": "/Users/abdullahaameen/Downloads/Abdullah_Xamarin_Training/FIrst_App/FIrst_App/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/abdullahaameen/.nuget/NuGet/NuGet.Config"
