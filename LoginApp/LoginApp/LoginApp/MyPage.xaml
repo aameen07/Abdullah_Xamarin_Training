@@ -7,10 +7,10 @@
     <ContentPage.Content>
  
         <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
-<Entry x:Name="usernameEntry" Placeholder="Username" HorizontalOptions="FillAndExpand" Margin="10" WidthRequest="250"/>
-<Entry x:Name="passwordEntry" Placeholder="Password" IsPassword="True" HorizontalOptions="FillAndExpand" Margin="10" WidthRequest="250"/>
-<Button Text="Login" Clicked="OnLoginClicked" HorizontalOptions="FillAndExpand" Margin="10"/>
-</StackLayout>
+        <Entry x:Name="usernameEntry" Placeholder="Username" HorizontalOptions="FillAndExpand" Margin="10" WidthRequest="250"/>
+        <Entry x:Name="passwordEntry" Placeholder="Password" IsPassword="True" HorizontalOptions="FillAndExpand" Margin="10" WidthRequest="250"/>
+        <Button Text="Login" Clicked="OnLoginClicked" HorizontalOptions="FillAndExpand" Margin="10"/>
+        </StackLayout>
  
     </ContentPage.Content>
  

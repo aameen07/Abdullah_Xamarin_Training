@@ -1,6 +1,7 @@
 ﻿using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using XamarinLoginApp;
 
 namespace LoginApp
 {
@@ -10,7 +11,7 @@ namespace LoginApp
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new MyPage();
         }
 
         protected override void OnStart ()
